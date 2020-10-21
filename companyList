@@ -1,6 +1,6 @@
 {
   "status": "Success",
-  "message": "Company List",
+  "message": "CompanyList",
   "result": [
     {
       "c_id": 1,
